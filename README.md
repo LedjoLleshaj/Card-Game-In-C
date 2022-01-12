@@ -1,5 +1,5 @@
-# Card-Game-In-C
-Project in C i wrote to help my friend
+# Hearthstone-Card-Game simplified In C
+Game in C i wrote to help my friend with a school project
 
 Per compilarlo:
 $ gcc -c main.c
