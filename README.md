@@ -1,5 +1,4 @@
 # Hearthstone-Card-Game simplified In C
-Game in C i wrote to help my friend with a school project
 
 Per compilarlo:
 
